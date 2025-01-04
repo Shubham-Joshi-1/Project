@@ -1,3 +1,3 @@
 #first html / css project
 
-this project contain earth and moon orbit 
+this project contain earth and moon orbit.
